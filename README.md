@@ -7,4 +7,4 @@ installation
 
 `cd attack`
 
-`python3 attack`
+`python3 attack.py`
